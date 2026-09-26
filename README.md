@@ -1,7 +1,7 @@
 
 ## hi, I'm Kaushal 👋
 
-SRE at [RapidAI](https://rapidai.com) · building systems that stay up, agents that think, and tools that get out of the way.
+Software Engineer at [RapidAI](https://rapidai.com) · building systems that stay up, agents that think, and tools that get out of the way.
 
 ```
                 reliability  ×  intelligence  ×  simplicity
