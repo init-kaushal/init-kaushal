@@ -13,7 +13,7 @@ Software Engineer at [RapidAI](https://rapidai.com) · building systems that sta
 
 | project | what it does |
 |---------|-------------|
-| [**poirot**](https://github.com/init-kaushal/poirot) | point-in-time Kubernetes reliability, cost, and change-risk assessment — the SRE agent that cuts escalation time from 2h+ to <30min |
+| [**poirot**](https://github.com/init-kaushal/poirot) | point-in-time Kubernetes reliability, cost, and change-risk assessment — cuts escalation time from 2h+ to <30min |
 | [**skim**](https://github.com/init-kaushal/skim) | Claude Code plugin that intercepts oversized tool calls and substitutes a digest — keeps your context clean |
 | [**echo-health**](https://github.com/init-kaushal/echo-health) | 🏆 1st place Ekathon 2025 — doctors send a voice note on WhatsApp, get back a structured prescription via Eka Care's AI |
 
