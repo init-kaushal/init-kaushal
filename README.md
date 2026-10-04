@@ -1,6 +1,6 @@
 ## hi, I'm Kaushal 👋
 
-Senior Software Engineer, Platform at [RapidAI](https://rapidai.com) · building systems that stay up, agents that think, and tools that get out of the way.
+Senior Software Engineer, Platform at [RapidAI](https://rapidai.com) · building distributed systems, Kubernetes-native platforms, and AI agents.
 
 ```
                keeping prod alive · making agents think
