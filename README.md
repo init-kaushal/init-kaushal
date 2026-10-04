@@ -22,10 +22,10 @@ kaushal@portfolio:~$ ls -la ./projects
 
 | &nbsp; | project | concept | what it does |
 |--------|---------|---------|-------------|
+| `drwxr-xr-x` | [**careeros**](https://github.com/init-kaushal/careeros) | markdown-native workspace · agent lifecycle | privacy-first job search workspace for Claude Code. your data lives in a plain-text folder you own. no account, no cloud sync, no surprises |
 | `drwxr-xr-x` | [**poirot**](https://github.com/init-kaushal/poirot) | deterministic analyzers + additive LLM layer | point-in-time Kubernetes reliability, cost, and change-risk. cuts escalation time from 2h+ to <30min. named after the detective because it finds things before they find you |
 | `drwxr-xr-x` | [**skim**](https://github.com/init-kaushal/skim) | PreToolUse hook · deny + digest | Claude Code plugin that intercepts expensive Read/Grep/Bash calls and routes them to a cheap Haiku worker. model-agnostic, fails open — if the hook errors, the tool runs normally |
 | `drwxr-xr-x` | [**echo-health**](https://github.com/init-kaushal/echo-health) | two decoupled webhooks · async correlation | 🏆 1st · Ekathon 2025. doctors voice-note a prescription on WhatsApp; patients get it back structured. two async webhooks correlated by request_id |
-| `drwxr-xr-x` | [**careeros**](https://github.com/init-kaushal/careeros) | markdown-native workspace · agent lifecycle | privacy-first job search workspace for Claude Code. your data lives in a plain-text folder you own. no account, no cloud sync, no surprises |
 
 ---
 
