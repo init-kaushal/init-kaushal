@@ -29,23 +29,27 @@ kaushal@portfolio:~$ ls -la ./projects
 ```
 kaushal@portfolio:~$ cat experience.log
 → reading experience.log...
-→ 2 records found
+→ 3 records found
 → rendering...
 
-  RapidAI          Senior Software Engineer, Platform   Jun 2023 – Present
+  RapidAI          Senior Software Engineer, Platform   Oct 2025 – Present
   ────────────────────────────────────────────────────────────────────────
-  · Built the on-prem deployment system for hospital networks: Kubernetes cluster
-    setup, configuration management, and continuous delivery (Helm, ArgoCD)
-  · Set up distributed tracing across 12+ services using Tempo and Grafana
+  · On-prem deployment system for hospital networks (Kubernetes, Helm, ArgoCD)
+  · Distributed tracing across 12+ services using Tempo and Grafana
   · Shipped poirot AI agent: real-time reliability checks, 2h+ to <30min resolution
-  · Built the backend pipeline processing 500k+ webhook events per day
+  · Backend pipeline processing 500k+ webhook events per day
 
-  Eka Care         Software Engineer                    Jul 2021 – Jun 2023
+  Eka Care         Software Engineer 2                  Feb 2023 – Sep 2025
   ────────────────────────────────────────────────────────────────────────
   · Notification platform delivering 1M+ messages per day at 99.9% uptime
   · Webhook system for encrypted real-time delivery to 50+ clients at 100+ rps
-  · Backend services in Go for core prescription and appointment workflows
+  · Backend services in Go: prescriptions and appointments
   · Led and mentored 3 interns to build an internal analytics platform
+
+  IBM              Software Engineer, MQ                Jun 2021 – Jan 2023
+  ────────────────────────────────────────────────────────────────────────
+  · WebSphere MQ High Availability architecture, reduced message latency by 20%
+  · Java programs processing 1K+ messages per second across cloud platforms
 ```
 
 ---
