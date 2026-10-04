@@ -20,38 +20,30 @@
 kaushal@portfolio:~$ ls -la ./projects
 ```
 
-| &nbsp; | project | what it does |
-|--------|---------|-------------|
-| `drwxr-xr-x` | [**poirot**](https://github.com/init-kaushal/poirot) | point-in-time Kubernetes reliability, cost, and change-risk assessment. deterministic core + optional LLM layer. cuts escalation time from 2h+ to <30min |
-| `drwxr-xr-x` | [**skim**](https://github.com/init-kaushal/skim) | Claude Code plugin: intercepts oversized Read/Grep/Bash calls, routes them to a cheap Haiku worker, hands back a compact digest. keeps your context window honest |
-| `drwxr-xr-x` | [**echo-health**](https://github.com/init-kaushal/echo-health) | 🏆 1st · Ekathon 2025. doctors voice-note a prescription on WhatsApp, patients get it back structured |
+| &nbsp; | project | concept | what it does |
+|--------|---------|---------|-------------|
+| `drwxr-xr-x` | [**poirot**](https://github.com/init-kaushal/poirot) | deterministic analyzers + additive LLM layer | point-in-time Kubernetes reliability, cost, and change-risk. cuts escalation time from 2h+ to <30min. named after the detective because it finds things before they find you |
+| `drwxr-xr-x` | [**skim**](https://github.com/init-kaushal/skim) | PreToolUse hook · deny + digest | Claude Code plugin that intercepts expensive Read/Grep/Bash calls and routes them to a cheap Haiku worker. model-agnostic, fails open — if the hook errors, the tool runs normally |
+| `drwxr-xr-x` | [**echo-health**](https://github.com/init-kaushal/echo-health) | two decoupled webhooks · async correlation | 🏆 1st · Ekathon 2025. doctors voice-note a prescription on WhatsApp; patients get it back structured. two async webhooks correlated by request_id |
+| `drwxr-xr-x` | [**careeros**](https://github.com/init-kaushal/careeros) | markdown-native workspace · agent lifecycle | privacy-first job search workspace for Claude Code. your data lives in a plain-text folder you own. no account, no cloud sync, no surprises |
 
 ---
 
 ```
 kaushal@portfolio:~$ cat experience.log
-→ reading experience.log...
 → 3 records found
-→ rendering...
 
   RapidAI          Senior Software Engineer · Distributed Systems & Backend   Oct 2025 – Present
-  ──────────────────────────────────────────────────────────────────────────────────────────────
   · On-prem Kubernetes deployment system for hospital networks (Helm, ArgoCD)
-  · Distributed tracing across 12+ services — Tempo + Grafana, because guessing is not observability
-  · Shipped poirot: AI reliability agent, 2h+ to <30min escalation resolution, 80%+ team adoption
-  · Backend pipeline processing 500k+ webhook events per day
+  · Distributed tracing across 12+ services · AI reliability agent → 2h+ to <30min, 80%+ adoption
+  · Backend pipeline: 500k+ webhook events per day
 
   Eka Care         Software Engineer 2                                         Feb 2023 – Sep 2025
-  ──────────────────────────────────────────────────────────────────────────────────────────────
-  · Notification platform: 1M+ messages per day at 99.9% uptime (prod is not a test environment)
-  · Webhook system for encrypted real-time delivery to 50+ clients at 100+ rps
-  · Backend services in Go: prescriptions and appointments
-  · Led and mentored 3 interns to build an internal analytics platform
+  · Notification platform: 1M+ messages/day at 99.9% uptime
+  · Webhook system: 50+ clients at 100+ rps · Go backend for prescriptions and appointments
 
   IBM              Software Engineer, MQ                                       Jun 2021 – Jan 2023
-  ──────────────────────────────────────────────────────────────────────────────────────────────
-  · WebSphere MQ High Availability architecture, reduced message latency by 20%
-  · Java programs processing 1K+ messages per second across cloud platforms
+  · WebSphere MQ HA architecture · Java messaging at 1K+ msg/sec
 ```
 
 ---
@@ -63,6 +55,17 @@ kaushal@portfolio:~$ cat stack.txt
   cloud      AWS · GCP · Docker · Terraform · Helm · ArgoCD
   backend    PostgreSQL · Redis · Kafka · gRPC · REST
   ai         Claude API · MCP · AI Agents · LLMs
+```
+
+---
+
+```
+kaushal@portfolio:~$ cat exploring.json
+
+  building       careeros — privacy-first, markdown-native job search workspace for Claude Code
+  investigating  Jev · hackathons to put skills to actual use · trails longer than is sensible
+  learning       table tennis · guitar · what the air fryer is actually capable of
+  next           Agent Harness · CKAD and CKS · learning to not immediately sink in a pool
 ```
 
 ---
