@@ -34,16 +34,18 @@ kaushal@portfolio:~$ cat experience.log
 
   RapidAI          Senior Software Engineer, Platform   Jun 2023 – Present
   ────────────────────────────────────────────────────────────────────────
-  · Automated Kubernetes cluster setup and delivery for hospital networks (Helm, ArgoCD)
-  · Distributed tracing across 12+ services with Tempo and Grafana
-  · Shipped poirot AI agent: real-time reliability checks, 2h+ to <30min resolution time
-  · Backend pipeline processing 500k+ webhook events/day
+  · Built the on-prem deployment system for hospital networks: Kubernetes cluster
+    setup, configuration management, and continuous delivery (Helm, ArgoCD)
+  · Set up distributed tracing across 12+ services using Tempo and Grafana
+  · Shipped poirot AI agent: real-time reliability checks, 2h+ to <30min resolution
+  · Built the backend pipeline processing 500k+ webhook events per day
 
   Eka Care         Software Engineer                    Jul 2021 – Jun 2023
   ────────────────────────────────────────────────────────────────────────
-  · Backend services in Go: prescriptions and appointments
-  · Split a large monolith into independent microservices, zero user downtime
-  · WhatsApp integration for patient appointment and prescription delivery
+  · Notification platform delivering 1M+ messages per day at 99.9% uptime
+  · Webhook system for encrypted real-time delivery to 50+ clients at 100+ rps
+  · Backend services in Go for core prescription and appointment workflows
+  · Led and mentored 3 interns to build an internal analytics platform
 ```
 
 ---
