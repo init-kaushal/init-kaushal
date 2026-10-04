@@ -1,14 +1,18 @@
-## hi, I'm Kaushal 👋
-
-Senior Software Engineer, Platform at [RapidAI](https://rapidai.com) · building distributed systems, Kubernetes-native platforms, and AI agents.
-
 ```
-               keeping prod alive · making agents think
+kaushal@portfolio:~$ whoami
+Kaushal Sharma
+Senior Software Engineer, Platform · RapidAI
+Building distributed systems, Kubernetes-native platforms, and AI agents.
 ```
 
 ---
 
-### what I've been building
+```
+kaushal@portfolio:~$ ls -la ./projects
+drwxr-xr-x  poirot/
+drwxr-xr-x  echo-health/
+drwxr-xr-x  skim/
+```
 
 | project | what it does |
 |---------|-------------|
@@ -18,12 +22,20 @@ Senior Software Engineer, Platform at [RapidAI](https://rapidai.com) · building
 
 ---
 
-### stack
-
-`Go` · `Python` · `Kubernetes` · `Prometheus` · `Grafana` · `Claude API` · `AWS` · `FastAPI` · `GitHub Actions`
+```
+kaushal@portfolio:~$ cat stack.txt
+systems   Go · Python · Kubernetes · Prometheus · Grafana
+cloud     AWS · GCP · Docker · Terraform · Helm · ArgoCD
+backend   PostgreSQL · Redis · Kafka · gRPC · REST
+ai        Claude API · MCP · AI Agents · LLMs
+```
 
 ---
 
-### elsewhere
-
-[portfolio](https://init-kaushal.github.io/portfolio) · [linkedin](https://linkedin.com/in/kaushal-kishor-sharma) · [leetcode](https://leetcode.com/u/sharmakaushal) · [x](https://x.com/kaushaltwt)
+```
+kaushal@portfolio:~$ cat links.txt
+portfolio   →  init-kaushal.github.io/portfolio
+linkedin    →  kaushal-kishor-sharma
+leetcode    →  sharmakaushal
+x           →  kaushaltwt
+```
