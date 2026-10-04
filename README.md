@@ -1,7 +1,6 @@
-
 ## hi, I'm Kaushal 👋
 
-Software Engineer at [RapidAI](https://rapidai.com) · building systems that stay up, agents that think, and tools that get out of the way.
+Senior Software Engineer, Platform at [RapidAI](https://rapidai.com) · building systems that stay up, agents that think, and tools that get out of the way.
 
 ```
                keeping prod alive · making agents think
