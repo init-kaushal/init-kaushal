@@ -4,7 +4,7 @@
 ╚══════════════════════════════════════════════════════════╝
 
   Kaushal Sharma
-  Senior Software Engineer · Distributed Systems & Backend · RapidAI
+  Software Engineer · Distributed Systems & Backend · RapidAI
   Building reliable, scalable backend systems and the infrastructure behind them.
 
   Location   Bangalore, India
@@ -33,7 +33,7 @@ kaushal@portfolio:~$ ls -la ./projects
 kaushal@portfolio:~$ cat experience.log
 → 3 records found
 
-  RapidAI          Senior Software Engineer · Distributed Systems & Backend   Oct 2025 – Present
+  RapidAI          Software Engineer · Distributed Systems & Backend   Oct 2025 – Present
   · On-prem Kubernetes deployment system for hospital networks (Helm, ArgoCD)
   · Distributed tracing across 12+ services · AI reliability agent → 2h+ to <30min, 80%+ adoption
   · Backend pipeline: 500k+ webhook events per day
